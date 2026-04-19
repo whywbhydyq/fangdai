@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <rect width="1200" height="630" fill="#1a1a2e"/>
+  <text x="600" y="280" font-family="Arial,sans-serif" font-size="120" font-weight="bold" fill="#e94560" text-anchor="middle">GitLCP</text>
+  <text x="600" y="380" font-family="Arial,sans-serif" font-size="40" fill="#ffffff" text-anchor="middle">免费在线房贷计算器</text>
+</svg>
