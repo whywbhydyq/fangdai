@@ -1,0 +1,13 @@
+{
+  "name": "fangdai",
+  "version": "1.0.0",
+  "description": "房贷计算器2026 - 在线商业/公积金/组合贷款计算",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linter configured'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  }
+}
